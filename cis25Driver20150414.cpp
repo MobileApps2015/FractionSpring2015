@@ -11,6 +11,8 @@
 #include "cis25Spring2015SwapUtil.h"
 using namespace std;
 
+// Just making notation
+
 void doFraction(void);
 
 int returnInt(void);
